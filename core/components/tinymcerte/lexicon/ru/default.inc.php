@@ -6,7 +6,7 @@
  * @subpackage lexicon
  */
 
-$_lang['tinymcerte'] = 'Текстовый редактор TinyMCE Rich';
+$_lang['tinymcerte'] = 'TinyMCE Rich Text Editor';
 
 $_lang['area_tinymcerte.style_formats'] = 'Форматы стилей';
 $_lang['area_tinymcerte.toolbar'] = 'Панель инструментов';
