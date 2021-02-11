@@ -1,6 +1,6 @@
 <?php
 /**
- * Default English Lexicon Entries for TinyMCE Rich Text Editor
+ * Default Lexicon Entries for TinyMCE Rich Text Editor
  *
  * @package tinymcerte
  * @subpackage lexicon
