@@ -5,18 +5,15 @@
  * @package tinymcerte
  * @subpackage lexicon
  */
-
 $_lang['area_tinymcerte.style_formats'] = 'Форматы стилей';
 $_lang['area_tinymcerte.toolbar'] = 'Панель инструментов';
 $_lang['area_tinymcerte.default'] = 'TinyMCE';
-
 $_lang['setting_tinymcerte.toolbar1'] = 'Панель инструментов 1';
 $_lang['setting_tinymcerte.toolbar1_desc'] = 'Это определяет, какие кнопки вы хотите показать на панели инструментов. <a href="https://www.tiny.cloud/docs/configure/editor-appearance/#toolbar">https://www.tiny.cloud/docs/configure/editor-appearance/#toolbar</a>';
 $_lang['setting_tinymcerte.toolbar2'] = 'Панель инструментов 2';
 $_lang['setting_tinymcerte.toolbar2_desc'] = 'Это определяет, какие кнопки вы хотите показать на панели инструментов. <a href="https://www.tiny.cloud/docs/configure/editor-appearance/#toolbar">https://www.tiny.cloud/docs/configure/editor-appearance/#toolbar</a>';
 $_lang['setting_tinymcerte.toolbar3'] = 'Панель инструментов 3';
 $_lang['setting_tinymcerte.toolbar3_desc'] = 'Это определяет, какие кнопки вы хотите показать на панели инструментов. <a href="https://www.tiny.cloud/docs/configure/editor-appearance/#toolbar">https://www.tiny.cloud/docs/configure/editor-appearance/#toolbar</a>';
-
 $_lang['setting_tinymcerte.style_formats'] = 'Форматы стилей';
 $_lang['setting_tinymcerte.style_formats_desc'] = 'Этот параметр позволяет добавлять в редактор более продвинутые форматы стилей для текста и других элементов. <a href="https://www.tiny.cloud/docs-4x/configure/content-formatting/#style_formats">https://www.tiny.cloud/docs-4x/configure/content-formatting/#style_formats</a>';
 $_lang['setting_tinymcerte.headers_format'] = 'Формат заголовков';
@@ -29,7 +26,6 @@ $_lang['setting_tinymcerte.alignment_format'] = 'Формат выравнива
 $_lang['setting_tinymcerte.alignment_format_desc'] = 'Этот параметр позволяет добавлять в редактор более продвинутые форматы стилей для текста и других элементов. <a href="https://www.tiny.cloud/docs-4x/configure/content-formatting/#style_formats">https://www.tiny.cloud/docs-4x/configure/content-formatting/#style_formats</a>';
 $_lang['setting_tinymcerte.style_formats_merge'] = 'Объединение форматов стилей';
 $_lang['setting_tinymcerte.style_formats_merge_desc'] = 'Если вы хотите объединить ваши стили со стилем по умолчанию styles_format. <a href="https://www.tiny.cloud/docs-4x/configure/content-formatting/#style_formats">https://www.tiny.cloud/docs-4x/configure/content-formatting/#style_formats</a>';
-
 $_lang['setting_tinymcerte.browser_spellcheck'] = 'Проверка орфографии';
 $_lang['setting_tinymcerte.browser_spellcheck_desc'] = 'Включить или отключить проверку орфографии в браузере. <a href="https://www.tiny.cloud/docs-4x/configure/spelling/#browser_spellcheck">https://www.tiny.cloud/docs-4x/configure/spelling/#browser_spellcheck</a>';
 $_lang['setting_tinymcerte.content_css'] = 'CSS для контента';
@@ -57,7 +53,7 @@ $_lang['setting_tinymcerte.plugins_desc'] = 'Укажите, какие плаг
 $_lang['setting_tinymcerte.relative_urls'] = 'Относительные URL';
 $_lang['setting_tinymcerte.relative_urls_desc'] = 'Если для этого параметра установлено значение true, все URL-адреса, возвращаемые из MCFileManager, будут относительными из указанного document_base_url. Если установлено значение false, все URL будут преобразованы в абсолютные URL.';
 $_lang['setting_tinymcerte.remove_script_host'] = 'Удалить скрипт хоста';
-$_lang['setting_tinymcerte.remove_script_host_desc'] = 'Если эта опция включена, протокол и часть хоста URL-адресов, возвращаемых из MCFileManager, будут удалены. Этот параметр используется только в том случае, если для параметра relative_urls установлено значение false.';
+$_lang['setting_tinymcerte.remove_script_host_desc'] = 'Удаляет из MCFileManager возвращаемые URL-адреса из протокола и хостовой части. (Используется, только если отключен относительный_урлс).';
 $_lang['setting_tinymcerte.settings'] = 'Дополнительные настройки';
 $_lang['setting_tinymcerte.settings_desc'] = 'JSON кодированный массив дополнительных настроек TinyMCE.';
 $_lang['setting_tinymcerte.skin'] = 'Скин';
