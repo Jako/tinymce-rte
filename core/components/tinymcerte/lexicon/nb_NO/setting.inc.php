@@ -12,7 +12,7 @@ $_lang['setting_tinymcerte.toolbar1'] = 'Toolbar 1';
 $_lang['setting_tinymcerte.toolbar1_desc'] = 'This controls what buttons you want show up in the toolbar. <a href="https://www.tiny.cloud/docs/configure/editor-appearance/#toolbar">https://www.tiny.cloud/docs/configure/editor-appearance/#toolbar</a>';
 $_lang['setting_tinymcerte.toolbar2'] = 'Toolbar 2';
 $_lang['setting_tinymcerte.toolbar2_desc'] = 'This controls what buttons you want show up in the toolbar. <a href="https://www.tiny.cloud/docs/configure/editor-appearance/#toolbar">https://www.tiny.cloud/docs/configure/editor-appearance/#toolbar</a>';
-$_lang['setting_tinymcerte.toolbar3'] = 'Toolbar 3';
+$_lang['setting_tinymcerte.toolbar3'] = 'Verktøylinje 3';
 $_lang['setting_tinymcerte.toolbar3_desc'] = 'This controls what buttons you want show up in the toolbar. <a href="https://www.tiny.cloud/docs/configure/editor-appearance/#toolbar">https://www.tiny.cloud/docs/configure/editor-appearance/#toolbar</a>';
 $_lang['setting_tinymcerte.style_formats'] = 'Style formats';
 $_lang['setting_tinymcerte.style_formats_desc'] = 'This option enables you to add more advanced style formats for text and other elements to the editor. <a href="https://www.tiny.cloud/docs/configure/editor-appearance/#style_formats">https://www.tiny.cloud/docs/configure/editor-appearance/#style_formats</a>';
