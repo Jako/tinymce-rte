@@ -49,7 +49,7 @@ $_lang['setting_tinymcerte.object_resizing_desc'] = 'Mit dieser Einstellung kön
 $_lang['setting_tinymcerte.paste_as_text'] = 'Als Text einfügen';
 $_lang['setting_tinymcerte.paste_as_text_desc'] = 'Mit dieser Einstellung können Sie den Standardzustand des "Einfügen als Text" Menüpunktes im \'Bearbeiten\'-Menü festlegen. <a href="https://www.tiny.cloud/docs/plugins/opensource/paste/#paste_as_text">https://www.tiny.cloud/docs/plugins/opensource/paste/#paste_as_text</a>';
 $_lang['setting_tinymcerte.plugins'] = 'Plugins';
-$_lang['setting_tinymcerte.plugins_desc'] = 'Legen Sie fest, welche Plugins geladen werden. (Standardmäßig werden keine geladen.) <a href="https://www.tiny.cloud/docs/configure/integration-and-setup/#plugins">https://www.tiny.cloud/docs/configure/integration-and-setup/#plugins</a>';
+$_lang['setting_tinymcerte.plugins_desc'] = 'Legen Sie fest, welche Plugins geladen werden (Standardmäßig werden keine geladen.) <a href="https://www.tiny.cloud/docs/configure/integration-and-setup/#plugins">https://www.tiny.cloud/docs/configure/integration-and-setup/#plugins</a>';
 $_lang['setting_tinymcerte.relative_urls'] = 'Relative URLs';
 $_lang['setting_tinymcerte.relative_urls_desc'] = 'Wenn diese Einstellung aktiviert ist, werden alle vom MODX Datei Browser zurückgegebenen URLs relativ zur angegebenen document_base_url gesetzt. Wenn sie deaktiviert ist, werden alle URLs in absolute URLs umgewandelt.';
 $_lang['setting_tinymcerte.remove_script_host'] = 'Script-Host entfernen';
